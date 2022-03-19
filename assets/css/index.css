@@ -26,37 +26,37 @@ a:hover {
   margin: 50px 0;
 }
 
-.markdown-body {
-  font-size: 18px;
-  max-width: 100%;
-}
+/*.markdown-body {*/
+/*  font-size: 18px;*/
+/*  max-width: 100%;*/
+/*}*/
 
-.markdown-body a {
-  text-decoration: underline;
-  text-decoration-color: #000;
-}
+/*.markdown-body a {*/
+/*  text-decoration: underline;*/
+/*  text-decoration-color: #000;*/
+/*}*/
 
-.markdown-body pre {
-  padding: 16px;
-  overflow: auto;
-  border-radius: 10px;
-}
+/*.markdown-body pre {*/
+/*  padding: 16px;*/
+/*  overflow: auto;*/
+/*  border-radius: 10px;*/
+/*}*/
 
-.markdown-body code {
-  padding: 0.2em 0.4em;
-  font-size: 85%;
-  background-color: #f6f8fa;
-  border-radius: 6px;
-}
+/*.markdown-body code {*/
+/*  padding: 0.2em 0.4em;*/
+/*  font-size: 85%;*/
+/*  background-color: #f6f8fa;*/
+/*  border-radius: 6px;*/
+/*}*/
 
-/* reset code */
+/*!* reset code *!*/
 
-.markdown-body pre > code {
-  padding: 0;
-  font-size: 100%;
-  background-color: inherit;
-  border: 0;
-}
+/*.markdown-body pre > code {*/
+/*  padding: 0;*/
+/*  font-size: 100%;*/
+/*  background-color: inherit;*/
+/*  border: 0;*/
+/*}*/
 
 /* i18n */
 
@@ -257,9 +257,9 @@ a:hover {
     font-size: 16px;
   }
 
-  .markdown-body {
-    font-size: 16px;
-  }
+  /*.markdown-body {*/
+  /*  font-size: 16px;*/
+  /*}*/
   .post-title {
     font-size: 2rem;
   }
