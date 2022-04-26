@@ -129,11 +129,12 @@ a:hover {
 
 .site-footer {
   margin-top: 50px;
-  /* margin-bottom: 80px; */
-  /* display: flex; */
+  margin-bottom: 80px;
+  display: flex;
   /* justify-content: flex-end; */
-  /* flex-wrap: wrap; */
-  /* padding: 12px 0; */
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 12px 0;
   /* border-width: 3px; */
   /* border-style: solid none; */
   /* border-color: #000; */
